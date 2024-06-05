@@ -1,2 +1,1 @@
-# Data-Science-on-LoL
-A project for my DSC 80 course.
+# An Analysis on the Importance of Kills Versus Objectives in League of Legends
